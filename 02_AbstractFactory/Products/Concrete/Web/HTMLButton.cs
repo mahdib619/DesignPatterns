@@ -1,4 +1,4 @@
-namespace AbstractFactory.Products.Web;
+namespace AbstractFactory.Products.Concrete.Web;
 
 public class HTMLButton : Button
 {

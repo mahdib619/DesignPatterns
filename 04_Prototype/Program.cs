@@ -1,4 +1,5 @@
-﻿using Prototype;
+﻿using Prototype.Abstract;
+using Prototype.Concrete;
 
 var sourceShapes = new List<Shape>();
 

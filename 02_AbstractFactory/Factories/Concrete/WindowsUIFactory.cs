@@ -1,7 +1,8 @@
-using AbstractFactory.Products;
-using AbstractFactory.Products.Windows;
+using AbstractFactory.Factories.Abstract;
+using AbstractFactory.Products.Abstract;
+using AbstractFactory.Products.Concrete.Windows;
 
-namespace AbstractFactory.Factories;
+namespace AbstractFactory.Factories.Concrete;
 
 public class WindowsUIFactory : UIFactory
 {

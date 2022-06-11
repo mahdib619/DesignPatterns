@@ -1,4 +1,4 @@
-namespace AbstractFactory.Products.Windows;
+namespace AbstractFactory.Products.Concrete.Windows;
 
 public class WindowsButton : Button
 {

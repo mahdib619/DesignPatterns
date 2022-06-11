@@ -1,4 +1,4 @@
-namespace AbstractFactory.Products;
+namespace AbstractFactory.Products.Abstract;
 
 public abstract class Label
 {

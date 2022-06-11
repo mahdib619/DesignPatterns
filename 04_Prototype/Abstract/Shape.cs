@@ -1,4 +1,4 @@
-﻿namespace Prototype;
+﻿namespace Prototype.Abstract;
 
 public abstract class Shape
 {

@@ -1,7 +1,8 @@
-using AbstractFactory.Products;
-using AbstractFactory.Products.Web;
+using AbstractFactory.Factories.Abstract;
+using AbstractFactory.Products.Abstract;
+using AbstractFactory.Products.Concrete.Web;
 
-namespace AbstractFactory.Factories;
+namespace AbstractFactory.Factories.Concrete;
 
 public class WebUIFactory : UIFactory
 {

@@ -1,4 +1,4 @@
-namespace AbstractFactory.Products.Mac;
+namespace AbstractFactory.Products.Concrete.Mac;
 
 public class MacButton : Button
 {

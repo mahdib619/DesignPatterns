@@ -1,6 +1,6 @@
-using AbstractFactory.Products;
+using AbstractFactory.Products.Abstract;
 
-namespace AbstractFactory.Factories;
+namespace AbstractFactory.Factories.Abstract;
 
 public abstract class UIFactory
 {

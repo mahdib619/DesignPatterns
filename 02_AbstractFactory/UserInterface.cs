@@ -1,4 +1,4 @@
-using AbstractFactory.Factories;
+using AbstractFactory.Factories.Abstract;
 
 namespace AbstractFactory;
 

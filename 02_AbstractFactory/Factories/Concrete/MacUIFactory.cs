@@ -1,7 +1,8 @@
-using AbstractFactory.Products;
-using AbstractFactory.Products.Mac;
+using AbstractFactory.Factories.Abstract;
+using AbstractFactory.Products.Abstract;
+using AbstractFactory.Products.Concrete.Mac;
 
-namespace AbstractFactory.Factories;
+namespace AbstractFactory.Factories.Concrete;
 
 public class MacUIFactory : UIFactory
 {

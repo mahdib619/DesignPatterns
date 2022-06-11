@@ -1,5 +1,6 @@
 ﻿using AbstractFactory;
-using AbstractFactory.Factories;
+using AbstractFactory.Factories.Abstract;
+using AbstractFactory.Factories.Concrete;
 
 var factories = new Dictionary<string, UIFactory>
 {

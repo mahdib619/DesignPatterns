@@ -1,6 +1,7 @@
 ﻿using Builder.Product;
+using Builder.Builders.Abstract;
 
-namespace Builder.Builders;
+namespace Builder.Builders.Concrete;
 
 public class WindowsApplicationPageBuilder : IApplicationPageBuilder
 {

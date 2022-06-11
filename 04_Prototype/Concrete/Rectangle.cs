@@ -1,4 +1,4 @@
-﻿namespace Prototype;
+﻿namespace Prototype.Concrete;
 
 public class Rectangle : Shape
 {
