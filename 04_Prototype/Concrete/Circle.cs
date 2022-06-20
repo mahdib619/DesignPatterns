@@ -1,4 +1,6 @@
-﻿namespace Prototype.Concrete;
+﻿using Prototype.Abstract;
+
+namespace Prototype.Concrete;
 
 public class Circle : Shape
 {

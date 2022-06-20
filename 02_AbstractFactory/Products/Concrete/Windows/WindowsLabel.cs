@@ -1,3 +1,5 @@
+using AbstractFactory.Products.Abstract;
+
 namespace AbstractFactory.Products.Concrete.Windows;
 
 public class WindowsLabel : Label
