@@ -28,9 +28,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Facade", "09_Facade\09_F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Proxy", "10_Proxy\10_Proxy.csproj", "{EE1F3643-756F-4817-B649-78CB152A081F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ChainOfResponsibility", "11_ChainOfResponsibility\11_ChainOfResponsibility.csproj", "{9A77791A-5390-4B9B-8DED-450732579AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_ChainOfResponsibility", "11_ChainOfResponsibility\11_ChainOfResponsibility.csproj", "{9A77791A-5390-4B9B-8DED-450732579AF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Command", "12_Command\12_Command.csproj", "{670BE921-7F55-4C15-86C1-9C5D92050453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Command", "12_Command\12_Command.csproj", "{670BE921-7F55-4C15-86C1-9C5D92050453}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Mediator", "13_Mediator\13_Mediator.csproj", "{60E84C9B-EE9B-48FF-95E7-6CEA89FB3C33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{670BE921-7F55-4C15-86C1-9C5D92050453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{670BE921-7F55-4C15-86C1-9C5D92050453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{670BE921-7F55-4C15-86C1-9C5D92050453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E84C9B-EE9B-48FF-95E7-6CEA89FB3C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E84C9B-EE9B-48FF-95E7-6CEA89FB3C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E84C9B-EE9B-48FF-95E7-6CEA89FB3C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E84C9B-EE9B-48FF-95E7-6CEA89FB3C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
